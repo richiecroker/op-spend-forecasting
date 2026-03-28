@@ -16,6 +16,7 @@ st.image(os.path.join(base_dir, "content", "OpenPrescribing.svg"))
 st.info(
     """##### Hello!  This is a **very** early prototype of something.  
 Please let us know what you think, and what you'd like to see.  Email us at [bennett@phc.ox.ac.uk](mailto:bennett@phc.ox.ac.uk)"""
+)
 
 # ── Information ─────────────────────────────────────────────────────────────────
 
